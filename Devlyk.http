@@ -1,0 +1,6 @@
+@Devlyk_HostAddress = http://localhost:5041
+
+GET {{Devlyk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
